@@ -2,11 +2,29 @@
 
 
 
-- ⚙️ I use daily: `.js`, `.py`, `.c`, `.cpp`, `.java`,  
-- 🌱 I’m currently teaching ... Django
-- 👯 I’m looking to collaborate on ... Django
-- 🤔 I’m looking for help with ... React Server Components
-- 😄 Pronouns: ... He/Him
+### A little more about me...  
+
+```javascript
+const iamrahulmahato = {
+    pronouns: "He" | "Him",
+    code: [Javascript, C++, Java, Python],
+    askMeAbout: ["web dev", "tech"],
+    technologies:{
+       frontEnd: {
+            js: ["React","Vue.js"],
+            css: ["materialize", "tailwind"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["Django", "Flask"]
+        },
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase"]  
+    },
+   
+};
+```
 
 
 ### Contact me:
