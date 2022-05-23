@@ -19,7 +19,7 @@ const iamrahulmahato = {
         },
         devOps: ["AWS", "Google Cloud"],
         databases: ["mongo","sql"],
-        misc: ["Firebase"]  
+        misc: ["Firebase","Socket.IO"]  
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
