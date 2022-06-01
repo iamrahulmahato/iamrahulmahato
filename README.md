@@ -1,4 +1,5 @@
-﻿### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rahul!](https://bio.link/iamrahulmahato) 
+### Hi there 👋
+### I'm [Rahul!](https://bio.link/iamrahulmahato) 
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
